@@ -1,2 +1,10 @@
 # Counter-P2
- This is second JS project. It increases decreases and resets  the value of count on in
+ This is second JavaScript project.
+ 
+  It increases, decreases and resets  the value of counter.
+
+  Concepts used:
+  - value.textContent
+  - e.CurrentTarget.classList
+
+  
